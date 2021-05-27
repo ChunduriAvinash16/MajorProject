@@ -1,0 +1,42 @@
+How to write a paper ?
+Contains 5 noting
+1) Introduction
+2) Literature Survey
+3) What method has used already
+4) What the proposed system is telling and result
+5) References
+
+
+Now,
+Introduction and literature survey 
+
+1)Introducion:
+  2 to 3 sheets
+  it is like chapter preface
+  Design
+Experimental work
+
+2)Literature Survey
+Collect 8 papers related to work
+(8 paragraphs)
+How to read ?
+	read abstract and conclusion
+	if related to our work
+		then go to explination part
+			understand that write that paragraph
+
+3)already wrote
+
+4)Result(one page) and Conclusion section
+
+
+
+4 documents 
+Introduction
+Literature surevy
+already wrote
+Result(one page) and Conclusion section
+
+
+Don't Copy
+
